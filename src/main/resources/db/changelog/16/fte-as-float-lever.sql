@@ -1,0 +1,2 @@
+ALTER TABLE IF EXISTS public.lever
+    ALTER COLUMN f_te TYPE FLOAT;

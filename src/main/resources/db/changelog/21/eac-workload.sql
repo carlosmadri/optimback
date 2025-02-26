@@ -1,0 +1,2 @@
+ALTER TABLE public.workload
+ADD COLUMN IF NOT EXISTS eac BOOLEAN;

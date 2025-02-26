@@ -1,0 +1,12 @@
+INSERT INTO location (country, site, cost_center_id, kapis_code, employee_id, job_request_id, purchase_orders_id, workload_id) VALUES ('France', 'Antibes', '6635', '2797', NULL, NULL, NULL, NULL);
+INSERT INTO location (country, site, cost_center_id, kapis_code, employee_id, job_request_id, purchase_orders_id, workload_id) VALUES ('Germany', 'Backnang', '4353', '3763', NULL, NULL, NULL, NULL);
+INSERT INTO location (country, site, cost_center_id, kapis_code, employee_id, job_request_id, purchase_orders_id, workload_id) VALUES ('Germany', 'Bremen', '4565', '5211', NULL, NULL, NULL, NULL);
+INSERT INTO location (country, site, cost_center_id, kapis_code, employee_id, job_request_id, purchase_orders_id, workload_id) VALUES ('Germany', 'Bremen', '4722', '1775', NULL, NULL, NULL, NULL);
+INSERT INTO location (country, site, cost_center_id, kapis_code, employee_id, job_request_id, purchase_orders_id, workload_id) VALUES ('Germany', 'Bremen', 'P551', '5205', NULL, NULL, NULL, NULL);
+INSERT INTO location (country, site, cost_center_id, kapis_code, employee_id, job_request_id, purchase_orders_id, workload_id) VALUES ('Romania', 'Bucharest', '13541410', '4369', NULL, NULL, NULL, NULL);
+INSERT INTO location (country, site, cost_center_id, kapis_code, employee_id, job_request_id, purchase_orders_id, workload_id) VALUES ('Belgium', 'Diegem', '13543410', '1871', NULL, NULL, NULL, NULL);
+INSERT INTO location (country, site, cost_center_id, kapis_code, employee_id, job_request_id, purchase_orders_id, workload_id) VALUES ('France', 'Elancourt', '13545410', '2854', NULL, NULL, NULL, NULL);
+INSERT INTO location (country, site, cost_center_id, kapis_code, employee_id, job_request_id, purchase_orders_id, workload_id) VALUES ('France', 'Elancourt', '13563410', '1264', NULL, NULL, NULL, NULL);
+INSERT INTO location (country, site, cost_center_id, kapis_code, employee_id, job_request_id, purchase_orders_id, workload_id) VALUES ('Spain', 'Getafe', '13588411', '1455', NULL, NULL, NULL, NULL);
+INSERT INTO location (country, site, cost_center_id, kapis_code, employee_id, job_request_id, purchase_orders_id, workload_id) VALUES ('Spain', 'Getafe', '92095454', '2917', NULL, NULL, NULL, NULL);
+INSERT INTO location (country, site, cost_center_id, kapis_code, employee_id, job_request_id, purchase_orders_id, workload_id) VALUES ('Germany', 'Hallbergmoos', '92096454', '1382', NULL, NULL, NULL, NULL);

@@ -1,0 +1,14 @@
+INSERT INTO lever (lever_type, highlights, start_date, end_date, amount, employee_id) VALUES ('Other Absence', 'Free Text comment', '2023-02-01 00:00:00', '2024-09-01 00:00:00', -1.0, 1000004);
+INSERT INTO lever (lever_type, highlights, start_date, end_date, amount, employee_id) VALUES ('Parental Leave', 'Here you write any comment you want', '2024-02-01 00:00:00', '2024-03-01 00:00:00', -1.0, 1000010);
+INSERT INTO lever (lever_type, highlights, start_date, end_date, amount, employee_id) VALUES ('Mobility Out', 'nan', '2024-12-31 00:00:00', '2099-12-31 00:00:00', -1.0, 1000010);
+INSERT INTO lever (lever_type, highlights, start_date, end_date, amount, employee_id) VALUES ('Pre-Retirement', 'nan', '2023-06-01 00:00:00', '2099-12-31 00:00:00', -1.0, 1000015);
+INSERT INTO lever (lever_type, highlights, start_date, end_date, amount, employee_id) VALUES ('Shift Change', 'nan', '2023-12-01 00:00:00', '2024-06-01 00:00:00', -0.6, 1000013);
+INSERT INTO lever (lever_type, highlights, start_date, end_date, amount, employee_id) VALUES ('Mobility Out', 'nan', '2024-04-01 00:00:00', '2099-12-31 00:00:00', -1.0, 1000019);
+INSERT INTO lever (lever_type, highlights, start_date, end_date, amount, employee_id) VALUES ('Shift Change', 'nan', '2024-06-01 00:00:00', '2025-06-01 00:00:00', -0.2, 1000013);
+INSERT INTO lever (lever_type, highlights, start_date, end_date, amount, employee_id) VALUES ('Temp Release', 'nan', '2024-11-01 00:00:00', '2099-12-31 00:00:00', -1.0, 1000026);
+INSERT INTO lever (lever_type, highlights, start_date, end_date, amount, employee_id) VALUES ('Mobility Out', 'Leaving to T1E', '2024-08-01 00:00:00', '2099-12-31 00:00:00', -1.0, 1000020);
+INSERT INTO lever (lever_type, highlights, start_date, end_date, amount, employee_id) VALUES ('Mobility Out', 'Moving out to Production', '2024-08-01 00:00:00', '2099-12-31 00:00:00', -1.0, 1000007);
+INSERT INTO lever (lever_type, highlights, start_date, end_date, amount, employee_id) VALUES ('Parental Leave', 'nan', '2024-07-01 00:00:00', '2024-12-01 00:00:00', -1.0, 1000006);
+INSERT INTO lever (lever_type, highlights, start_date, end_date, amount, employee_id) VALUES ('Temp Release', 'nan', '2025-04-01 00:00:00', '2099-12-31 00:00:00', -1.0, 1000004);
+INSERT INTO lever (lever_type, highlights, start_date, end_date, amount, employee_id) VALUES ('Mobility Out', 'nan', '2024-11-01 00:00:00', '2099-12-31 00:00:00', -1.0, 1000022);
+INSERT INTO lever (lever_type, highlights, start_date, end_date, amount, employee_id) VALUES ('Internal Mobility', 'nan', '2025-01-01 00:00:00', '2099-12-31 00:00:00', -1.0, 1000006);

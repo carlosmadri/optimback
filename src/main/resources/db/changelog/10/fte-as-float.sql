@@ -1,0 +1,11 @@
+ALTER TABLE IF EXISTS public.employee
+    ALTER COLUMN f_te TYPE FLOAT;
+
+ALTER TABLE IF EXISTS public.head_count
+    ALTER COLUMN f_te TYPE FLOAT;
+
+ALTER TABLE IF EXISTS public.job_request
+    ALTER COLUMN f_te TYPE FLOAT;
+
+ALTER TABLE IF EXISTS public.workload
+    ALTER COLUMN f_te TYPE FLOAT;

@@ -1,0 +1,3 @@
+ALTER TABLE public.location
+ADD COLUMN longitude DOUBLE PRECISION,
+ADD COLUMN latitude DOUBLE PRECISION;
