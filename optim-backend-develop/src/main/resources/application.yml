@@ -1,0 +1,44 @@
+spring:
+  application:
+    name: optim
+
+  datasource:
+    url: ${SPRING_DATASOURCE_URL}
+    username: ${SPRING_DATASOURCE_USERNAME}
+    password: ${SPRING_DATASOURCE_PASSWORD}
+
+  jpa:
+    hibernate:
+      ddl-auto: none
+    show-sql: false
+
+  mvc:
+    servlet:
+      path: /api/optim
+
+  liquibase:
+    change-log: classpath:db/changelog/db.changelog-master.xml
+
+scheduled:
+  fixedRate: 3000000
+
+springdoc:
+  swagger-ui:
+    tags-sorter: alpha
+
+app:
+  cors:
+    allowed-origin: "http://localhost:4200"
+  validateWithCertificate: false
+  extractUsernameFromToken: false
+
+management:
+  server:
+    base-path: /api/optim
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+  endpoint:
+    health:
+      show-details: always

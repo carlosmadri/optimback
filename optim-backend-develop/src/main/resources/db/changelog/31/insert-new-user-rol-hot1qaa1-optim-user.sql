@@ -1,0 +1,2 @@
+INSERT INTO public.optim_user(id,login,first_name,last_name,email,activated,created_date,siglum_visible,siglum_id,roles)
+VALUES(9, 'HO.T1QAA1', 'HO.T1QAA1','HO.T1QAA1', 'HO.T1QAA1', false, '2024-12-10 00:00:00', 'HO.T1QAA1',7,'ho_t1q');
